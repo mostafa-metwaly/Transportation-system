@@ -1,0 +1,13 @@
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\obj\Debug\netcoreapp3.1\transportation.csprojAssemblyReference.cache
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\obj\Debug\netcoreapp3.1\transportation.AssemblyInfoInputs.cache
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\obj\Debug\netcoreapp3.1\transportation.AssemblyInfo.cs
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\obj\Debug\netcoreapp3.1\transportation.csproj.CoreCompileInputs.cache
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\bin\Debug\netcoreapp3.1\transportation.exe
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\bin\Debug\netcoreapp3.1\transportation.deps.json
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\bin\Debug\netcoreapp3.1\transportation.runtimeconfig.json
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\bin\Debug\netcoreapp3.1\transportation.runtimeconfig.dev.json
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\bin\Debug\netcoreapp3.1\transportation.dll
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\bin\Debug\netcoreapp3.1\transportation.pdb
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\obj\Debug\netcoreapp3.1\transportation.dll
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\obj\Debug\netcoreapp3.1\transportation.pdb
+D:\Masters\OneDrive - АНО ВО Университет Иннополис\OOP\Assignments\transportation\obj\Debug\netcoreapp3.1\transportation.genruntimeconfig.cache
